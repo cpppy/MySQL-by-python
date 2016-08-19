@@ -63,8 +63,7 @@ for url in urlArr:
 			if word not in csdn:
 				othersites[word] = 0
 			othersites[word] += 1
-		
-
+			
 
 #restore data into database
 #database: postana
@@ -109,8 +108,7 @@ def in2db(dic,tablename):
 	except MySQLdb.Error,e:
 		print "MySQL Error %d: %s" % (e.args[0], e.args[1])
 	
-	
-in2db(csdn,"csdntable")		
+
 
 
 
