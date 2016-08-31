@@ -63,7 +63,8 @@ for url in urlArr:
 			if word not in csdn:
 				othersites[word] = 0
 			othersites[word] += 1
-			
+		
+
 
 #restore data into database
 #database: postana
@@ -74,14 +75,15 @@ def in2db(dic,tablename):
 	print "tablename :  ",tablename
 	dic  = collections.OrderedDict(sorted(dic.items(), key = lambda t: -t[1]))
 	
-	''' //tansfer count to rate
+	''' # it wrong!!! in "for" cycle, value change only useful inside of 'for'cycle,but not change the value in dic
+	# transfer count to rate
 	sum = 0
 	for value in dic.values():
 		sum += value
 	for key,value in dic.viewitems():
 		value = float(value)/sum
 		print "dic---- ",key," : ",value
-		'''
+	'''	
 		
 	try:
 		conn = MySQLdb.connect(host="localhost",user="root",passwd="ene",db="postana",use_unicode=True,charset="utf8",port=0)
@@ -93,7 +95,11 @@ def in2db(dic,tablename):
 		#prepare data and write into this table
 		insertvalues=[]
 		i=1
+		sum = 0
+		for value in dic.values():
+			sum += value
 		for key,value in dic.viewitems():
+			value = float(value)/sum
 			item = [i,key,value,tablename[0:-5]]
 			insertvalues.append(item)
 			item = []
@@ -108,7 +114,9 @@ def in2db(dic,tablename):
 	except MySQLdb.Error,e:
 		print "MySQL Error %d: %s" % (e.args[0], e.args[1])
 	
-
+if __name__ == '__main__':
+	print "use main"
+	in2db(csdn,"csdntable")		
 
 
 
