@@ -8,8 +8,10 @@ import jieba
 import getchlistfromhtml
 
 def getCsdnUrlArr():
+	url_arr=[]
+	urlname_dic = {}
 	for i in range(1,6):
-		url_arr=[]
+		print 'page : ',i
 		URL = 'http://blog.csdn.net/?&page='+str(i)
 		user_agent = "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
 		header = {"User-Agent":user_agent}
@@ -28,16 +30,23 @@ def getCsdnUrlArr():
 			if(postail-poshead<200):
 				print blogURL
 				url_arr.append(blogURL)
+				posnameh = postail+16
+				findnamet = '</a></h3>'
+				posnamet = cont.find(findnamet,poshead+1)
+				blogname = cont[posnameh:posnamet]
+				print blogname
+				urlname_dic[blogURL]=blogname
 				print "-----------*********************-------------"
-		return url_arr
+	return url_arr,urlname_dic
 
 if __name__ == '__main__':
-	url_arr = getCsdnUrlArr()
+	url_arr,urlname_dic = getCsdnUrlArr()
+	'''
 	wordsc = []
 	for url in url_arr:
-		wdlist = getChListFromHtml(url)
+		wdlist = getchlistfromhtml.getChListFromHtml(url)
 		wordsc.append(wdlist)
-	
+	'''
 
 
 
