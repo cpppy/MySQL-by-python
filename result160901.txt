@@ -1,0 +1,400 @@
+Score =  0.0024346847531
+URL   =  http://blog.csdn.net/hao54216/article/details/52350268
+Title :  Android加密策略
+----------------------------
+Score =  0.00240562624044
+URL   =  http://blog.csdn.net/seedshome/article/details/52170893
+Title :  Oracle序列和主键映射
+----------------------------
+Score =  0.0023898320816
+URL   =  http://blog.csdn.net/yangshangwei/article/details/52372647
+Title :  Shell 基本运算符
+----------------------------
+Score =  0.00223636509677
+URL   =  http://blog.csdn.net/bcbobo21cn/article/details/52374064
+Title :  图解SQL子查询实例
+----------------------------
+Score =  0.00215160676034
+URL   =  http://blog.csdn.net/xxniuren/article/details/52370271
+Title :  Java数据结构之二叉搜索树
+----------------------------
+Score =  0.00212314845498
+URL   =  http://blog.csdn.net/u011669081/article/details/52368251
+Title :  【腾讯面试】开发flash版天天爱消除
+----------------------------
+Score =  0.00211473615982
+URL   =  http://blog.csdn.net/zhang_z_qiang/article/details/52388071
+Title :  React-Native_02:语法篇
+----------------------------
+Score =  0.00211213196082
+URL   =  http://blog.csdn.net/caogos/article/details/52229324
+Title :  【龙印】龙芯1C300A片内ADC的测试
+----------------------------
+Score =  0.00210169906103
+URL   =  http://blog.csdn.net/seedshome/article/details/52239664
+Title :  MySQL主键自动生成和生成器表以及JPA主键映射
+----------------------------
+Score =  0.00204920863531
+URL   =  http://blog.csdn.net/black_ox/article/details/52302086
+Title :  CentOS编译安装PHP开发环境
+----------------------------
+Score =  0.00202715521839
+URL   =  http://blog.csdn.net/cadi2011/article/details/49929205
+Title :  13.面向对象编程
+----------------------------
+Score =  0.00200605311706
+URL   =  http://blog.csdn.net/testcs_dn/article/details/40513399
+Title :  CentOS6.5下安装远程桌面服务端软件VNC Server
+----------------------------
+Score =  0.00199629316587
+URL   =  http://blog.csdn.net/liuhe688/article/details/52170632
+Title :  数据结构与算法简记：AVL树
+----------------------------
+Score =  0.00196188588757
+URL   =  http://blog.csdn.net/yt7589/article/details/52366966
+Title :  深度学习算法实践12---卷积神经网络（CNN）实现
+----------------------------
+Score =  0.00193093537115
+URL   =  http://blog.csdn.net/foruok/article/details/51731523
+Title :  混日子不是你的错，根源在这里
+----------------------------
+Score =  0.0019129462408
+URL   =  http://blog.csdn.net/bcbobo21cn/article/details/52357298
+Title :  C语言实现压缩二例
+----------------------------
+Score =  0.00187150860983
+URL   =  http://blog.csdn.net/jxt1234and2010/article/details/52248997
+Title :  从软件工程的角度写机器学习5——SVM（支持向量机）实现
+----------------------------
+Score =  0.00185515547546
+URL   =  http://blog.csdn.net/david_han008/article/details/52316123
+Title :  C++学习之路
+----------------------------
+Score =  0.00182753002457
+URL   =  http://blog.csdn.net/chen_zhang_yu/article/details/52370856
+Title :  算法之经典排序算法小归纳
+----------------------------
+Score =  0.00178559434914
+URL   =  http://blog.csdn.net/cartzhang/article/details/52372611
+Title :  Unity脚本执行顺序自研框架
+----------------------------
+Score =  0.00175428848631
+URL   =  http://blog.csdn.net/sunhuaqiang1/article/details/52381578
+Title :  剑指Offer——银行考试
+----------------------------
+Score =  0.00173866239415
+URL   =  http://blog.csdn.net/dcy11011/article/details/52332045
+Title :  双圆碰撞简析
+----------------------------
+Score =  0.00171779541553
+URL   =  http://blog.csdn.net/qq_35522169/article/details/52381839
+Title :  Solr使用入门指南 （四）
+----------------------------
+Score =  0.00169443036954
+URL   =  http://blog.csdn.net/zgy621101/article/details/52397297
+Title :  正则表达式及应用
+----------------------------
+Score =  0.00167338307212
+URL   =  http://blog.csdn.net/lanuage/article/details/52357052
+Title :  windows 安全模型简介
+----------------------------
+Score =  0.00167051896147
+URL   =  http://blog.csdn.net/zjf280441589/article/details/52350085
+Title :  中介者模式
+----------------------------
+Score =  0.00165368176715
+URL   =  http://blog.csdn.net/hejjunlin/article/details/52376462
+Title :  Android Multimedia框架总结（二）MediaPlayer框架及播放网络视频案例
+----------------------------
+Score =  0.00165254177498
+URL   =  http://blog.csdn.net/yangshangwei/article/details/52305635
+Title :  Linux 磁盘管理
+----------------------------
+Score =  0.00161989499298
+URL   =  http://blog.csdn.net/lmb55/article/details/46424987
+Title :  文件上传下载—servlet API实现
+----------------------------
+Score =  0.00159878016864
+URL   =  http://blog.csdn.net/qq_26525215/article/details/52353433
+Title :  【框架】[Hibernate]利用Hibernate进行单表的增删改查-Web实例
+----------------------------
+Score =  0.00157358830613
+URL   =  http://blog.csdn.net/androidxiaogang/article/details/49682885
+Title :  java中的进程，线程，线程池总结
+----------------------------
+Score =  0.00154803953193
+URL   =  http://blog.csdn.net/dabokele/article/details/52215968
+Title :  Kafka系列之-自定义Producer
+----------------------------
+Score =  0.00153991972485
+URL   =  http://blog.csdn.net/qq3965470/article/details/52356575
+Title :  [设计模式]适配器模式
+----------------------------
+Score =  0.00153821702014
+URL   =  http://blog.csdn.net/xueyushenzhou/article/details/52372499
+Title :  C++中引用、指针与const之间的爱恨情愁
+----------------------------
+Score =  0.00150733168683
+URL   =  http://blog.csdn.net/u012896330/article/details/52291263
+Title :  属性动画实现卫星菜单效果
+----------------------------
+Score =  0.0014946715859
+URL   =  http://blog.csdn.net/qicosmos/article/details/52386920
+Title :  什么样的RPC才是好用的RPC
+----------------------------
+Score =  0.00149408793601
+URL   =  http://blog.csdn.net/woshiwangbiao/article/details/52381626
+Title :  Enhancing Android UI with Custom Views 通过自定义view来让你的UI更屌!
+----------------------------
+Score =  0.00144343724828
+URL   =  http://blog.csdn.net/limm33/article/details/52381464
+Title :  软件质量基础知识
+----------------------------
+Score =  0.00144315256683
+URL   =  http://blog.csdn.net/qq_20785431/article/details/52374310
+Title :  Android 实现酷炫的顶部栏
+----------------------------
+Score =  0.00143409790335
+URL   =  http://blog.csdn.net/phiall/article/details/52385165
+Title :  C++并发编程（C++11）
+----------------------------
+Score =  0.0014319950681
+URL   =  http://blog.csdn.net/erfucun/article/details/52366935
+Title :  Spark Streaming源码解读之Job动态生成和深度思考
+----------------------------
+Score =  0.00141675403308
+URL   =  http://blog.csdn.net/u012585964/article/details/52343418
+Title :  启动Activity时的方法调用（应用层）（MVC模式）
+----------------------------
+Score =  0.00140579979824
+URL   =  http://blog.csdn.net/a910626/article/details/52242016
+Title :  APP性能优化系列：内存优化-bitmap详解
+----------------------------
+Score =  0.00138941057728
+URL   =  http://blog.csdn.net/hejjunlin/article/details/52335094
+Title :  Android View框架总结（九）KeyEvent事件分发机制
+----------------------------
+Score =  0.00137985243874
+URL   =  http://blog.csdn.net/hzw19920329/article/details/52383287
+Title :  Callable与Runnable的区别及其在JDK源码中的应用
+----------------------------
+Score =  0.00137852399989
+URL   =  http://blog.csdn.net/zyq522376829/article/details/52373154
+Title :  iOS并发编程对比总结,NSThread,NSOperation,GCD - iOS
+----------------------------
+Score =  0.0013709626376
+URL   =  http://blog.csdn.net/beliefer/article/details/52094198
+Title :  Quartz与Spring集成——创建调度器
+----------------------------
+Score =  0.00136782162334
+URL   =  http://blog.csdn.net/qq_26411333/article/details/52383186
+Title :  Android 音量调节View
+----------------------------
+Score =  0.00136097363814
+URL   =  http://blog.csdn.net/shiqijiamengjie/article/details/52206865
+Title :  Linux系列之solr集群版环境搭建（六）
+----------------------------
+Score =  0.00134648609923
+URL   =  http://blog.csdn.net/dabokele/article/details/52373960
+Title :  Kafka系列之-Kafka监控工具KafkaOffsetMonitor配置及使用
+----------------------------
+Score =  0.00134077910829
+URL   =  http://blog.csdn.net/yerenyuan_pku/article/details/52371018
+Title :  编写自己的JDBC框架
+----------------------------
+Score =  0.00133806811063
+URL   =  http://blog.csdn.net/xwl198937/article/details/52371726
+Title :  直播技术（从服务端到客户端）
+----------------------------
+Score =  0.00133255229759
+URL   =  http://blog.csdn.net/wangjun5159/article/details/52312737
+Title :  cookie入门介绍
+----------------------------
+Score =  0.00130461974799
+URL   =  http://blog.csdn.net/yuanziok/article/details/52369922
+Title :  基于SAP的中国式数据分析浅谈
+----------------------------
+Score =  0.00130419011998
+URL   =  http://blog.csdn.net/gaibian0823/article/details/52372338
+Title :  集合详解之HashMap
+----------------------------
+Score =  0.00129768024595
+URL   =  http://blog.csdn.net/javazejian/article/details/52381558
+Title :  属性动画-Property Animation之ViewPropertyAnimator 你应该知道的一切
+----------------------------
+Score =  0.00129599071027
+URL   =  http://blog.csdn.net/zhangyifei216/article/details/49926459
+Title :  Linux内核原理-pid namespace
+----------------------------
+Score =  0.00128890077901
+URL   =  http://blog.csdn.net/qq_26525215/article/details/52383012
+Title :  【框架】[Spring3]下载安装、开源框架与IoC控制反转详解
+----------------------------
+Score =  0.00127636214921
+URL   =  http://blog.csdn.net/zjf280441589/article/details/49915379
+Title :  Java 注释
+----------------------------
+Score =  0.00127486814593
+URL   =  http://blog.csdn.net/yerenyuan_pku/article/details/52372703
+Title :  Apache的DBUtils框架学习
+----------------------------
+Score =  0.0012612372824
+URL   =  http://blog.csdn.net/hejjunlin/article/details/52392430
+Title :  Android Multimedia框架总结（三）MediaPlayer中创建到setDataSource过程
+----------------------------
+Score =  0.00126034784939
+URL   =  http://blog.csdn.net/qq_26787115/article/details/52388123
+Title :  微信朋友圈的图片上传，多图上传怎么去撸才合适？我们一起来实现吧！
+----------------------------
+Score =  0.0012545469687
+URL   =  http://blog.csdn.net/l1028386804/article/details/52389722
+Title :  UEditor之——与SpringMVC整合
+----------------------------
+Score =  0.00124871992574
+URL   =  http://blog.csdn.net/hzw19920329/article/details/52372348
+Title :  我眼中的java线程池实现原理
+----------------------------
+Score =  0.00124280674655
+URL   =  http://blog.csdn.net/cxl0921/article/details/52348484
+Title :  Ubuntu Shell常用命令
+----------------------------
+Score =  0.00123015132878
+URL   =  http://blog.csdn.net/wzy0623/article/details/52386016
+Title :  基于hadoop生态圈的数据仓库实践 —— OLAP与数据可视化（六）
+----------------------------
+Score =  0.00121944564486
+URL   =  http://blog.csdn.net/zhengyikuangge/article/details/50884749
+Title :  Android画折线图、柱状图、饼图（使用achartengine.jar）
+----------------------------
+Score =  0.0012166679526
+URL   =  http://blog.csdn.net/it_talk/article/details/52385120
+Title :  【稀饭】react native 实战系列教程之影片数据获取并解析
+----------------------------
+Score =  0.00121251786111
+URL   =  http://blog.csdn.net/meigang2012/article/details/52159823
+Title :  飞塔 (Fortinet) 防火墙配置－绑定 MAC 地址 (基于接口)
+----------------------------
+Score =  0.00119913474305
+URL   =  http://blog.csdn.net/qq_26787115/article/details/52356398
+Title :  Android高级控件（六）——自定义ListView高仿一个QQ可拖拽列表的实现
+----------------------------
+Score =  0.00119791155666
+URL   =  http://blog.csdn.net/chenrushui/article/details/52372126
+Title :  Linux操作系统（二）
+----------------------------
+Score =  0.00119471874618
+URL   =  http://blog.csdn.net/foruok/article/details/51654608
+Title :  程序员接私活的玄机
+----------------------------
+Score =  0.00117507505428
+URL   =  http://blog.csdn.net/yerenyuan_pku/article/details/52398214
+Title :  实现web树
+----------------------------
+Score =  0.00117228827431
+URL   =  http://blog.csdn.net/gsying1474/article/details/52358024
+Title :  微服务之Restful API 设计简述
+----------------------------
+Score =  0.00117066645178
+URL   =  http://blog.csdn.net/yerenyuan_pku/article/details/52387676
+Title :  JDBC应用中的事务管理
+----------------------------
+Score =  0.00114919492449
+URL   =  http://blog.csdn.net/pipisorry/article/details/37769669
+Title :  Python文件输入输出
+----------------------------
+Score =  0.00114458881012
+URL   =  http://blog.csdn.net/jiangwei0910410003/article/details/52211634
+Title :  UI设计的狂暴之路(PS篇)---设计知识学习路线概要以及PS在日常生活中的关键作用
+----------------------------
+Score =  0.001114047534
+URL   =  http://blog.csdn.net/wangdingqiaoit/article/details/51318793
+Title :  OpenGL学习脚印:  绘制一个三角形
+----------------------------
+Score =  0.00111082586342
+URL   =  http://blog.csdn.net/guoshengkai373/article/details/52368882
+Title :  浅谈JDK8相对于JDK7的一些新特性
+----------------------------
+Score =  0.00109570666308
+URL   =  http://blog.csdn.net/gdutxiaoxu/article/details/52371834
+Title :  360面试总结（Android）
+----------------------------
+Score =  0.00107986504706
+URL   =  http://blog.csdn.net/zhao13083837081/article/details/52382040
+Title :  redis浅谈教你使用redis（一）
+----------------------------
+Score =  0.00107923403082
+URL   =  http://blog.csdn.net/lmb55/article/details/51106820
+Title :  web前端性能优化总结
+----------------------------
+Score =  0.00107781292386
+URL   =  http://blog.csdn.net/wzy0623/article/details/52370045
+Title :  基于hadoop生态圈的数据仓库实践 —— OLAP与数据可视化（五）
+----------------------------
+Score =  0.001075209365
+URL   =  http://blog.csdn.net/ylyg050518/article/details/52245922
+Title :  Java虚拟机(五)——垃圾收集机制
+----------------------------
+Score =  0.00106526906764
+URL   =  http://blog.csdn.net/u011733020/article/details/52368456
+Title :  谷歌推荐的Android图片加载库（Glide）介绍
+----------------------------
+Score =  0.00106182206806
+URL   =  http://blog.csdn.net/huaxun66/article/details/52222643
+Title :  Android的Paint、Canvas和Matrix讲解
+----------------------------
+Score =  0.00106006677484
+URL   =  http://blog.csdn.net/liutianshx2012/article/details/52369163
+Title :  分段机制(个人理解)
+----------------------------
+Score =  0.00100660590572
+URL   =  http://blog.csdn.net/u013831257/article/details/52371920
+Title :  安卓自定义View进阶-Matrix详解
+----------------------------
+Score =  0.00100183149152
+URL   =  http://blog.csdn.net/qq_25412055/article/details/52373218
+Title :  仿微信清理内存图表动画（解决surfaceView闪烁问题）
+----------------------------
+Score =  0.000992008640757
+URL   =  http://blog.csdn.net/zju_fish1996/article/details/52354657
+Title :  [图形学] 《Real-Time Rendering》碰撞检测（一）
+----------------------------
+Score =  0.000978585782953
+URL   =  http://blog.csdn.net/xiehuimx/article/details/52349317
+Title :  详谈高大上的图片加载框架Glide
+----------------------------
+Score =  0.000968423186147
+URL   =  http://blog.csdn.net/cxh5060/article/details/52372448
+Title :  构建互联网高性能WEB系统
+----------------------------
+Score =  0.000966979639969
+URL   =  http://blog.csdn.net/deft_mkjing/article/details/52396224
+Title :  iOS开发之AVPlayer的精彩使用---&gt;网易新闻视频播放界面的另类实现
+----------------------------
+Score =  0.00095366385901
+URL   =  http://blog.csdn.net/kakashi8841/article/details/52374714
+Title :  宝箱抽奖模块与代码设计（二）
+----------------------------
+Score =  0.000938743280877
+URL   =  http://blog.csdn.net/xllily_11/article/details/52368272
+Title :  web前端 | 如何选择撸码神器
+----------------------------
+Score =  0.000911567861692
+URL   =  http://blog.csdn.net/u014231159/article/details/52389924
+Title :  对一个免费通话恶意APP的逆向分析
+----------------------------
+Score =  0.000822368241536
+URL   =  http://blog.csdn.net/dog250/article/details/52345064
+Title :  基于Cisco CDP协议的家用路由器以及盒子的自动配置随想
+----------------------------
+Score =  0.000781039977224
+URL   =  http://blog.csdn.net/fansunion/article/details/12908155
+Title :  我对职业规划和未来发展的一些思考
+----------------------------
+Score =  0.000694252427837
+URL   =  http://blog.csdn.net/jscese/article/details/45267677
+Title :  4月跳槽路
+----------------------------
+Score =  0.000664989226693
+URL   =  http://blog.csdn.net/feilianbb/article/details/50588713
+Title :  怎样测试企业级SSD
+----------------------------
